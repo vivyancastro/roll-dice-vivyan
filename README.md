@@ -11,7 +11,7 @@ A dice roller.
 ## Features
 - Stateless widgets designing the user interface;
 - Stateful widgets updating the user interface;
-- OnClick Listeners;
+- onClick Listeners;
 - setState marking the widget tree as dirty and requiring update on the next render;
 - String interpolation;
 - Code and use gesture controls.
